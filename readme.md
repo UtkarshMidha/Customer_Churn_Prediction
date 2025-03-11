@@ -26,9 +26,9 @@ The dataset used is the **Telco Customer Churn** dataset (`WA_Fn-UseC_-Telco-Cus
 
 ## 🛠️ Key Technologies
 
-- **Data Preprocessing**: `pandas`, `numpy`
+- **Data Preprocessing**: `pandas`, `numpy`, , `SMOTE  (imbalanced-learn)` ,`LabelEncoder (sklearn.preprocessing)`
 - **Data Visualization**: `matplotlib`, `seaborn`
-- **Machine Learning**: `scikit-learn`, `xgboost`, `imbalanced-learn`
+- **Machine Learning**: `scikit-learn (RandomForestClassifier, DecisionTreeClassifier)`, `xgboost (XGBClassifier)`
 - **Model Persistence**: `pickle`
 - **Model Evaluation**: Accuracy, Precision, Recall, F1-Score
 
