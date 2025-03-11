@@ -50,7 +50,7 @@ The dataset used is the **Telco Customer Churn** dataset (`WA_Fn-UseC_-Telco-Cus
 │   ├── customer_churn_model.pkl  
 │   └── encoders.pkl  
 │  
-├── notebook/                    # Jupyter Notebook with analysis and modeling  
+├── notebooks/                    # Jupyter Notebook(s) with analysis and modeling  
 │   └── main.ipynb  
 │  
 └── README.md                    # Project documentation
